@@ -69,9 +69,8 @@
     margin-top: 3rem;
 }
 
-.wwd-block:nth-child(2) >.block-features >:nth-child(1)
-.wwd-block:nth-child(2) >.block-features >:nth-child(3)
-{
+.wwd-block:nth-of-type(2)>.block-features > :nth-child(1),
+.wwd-block:nth-of-type(2)>.block-features > :nth-child(3){
     margin-top: 2rem;
 }
 

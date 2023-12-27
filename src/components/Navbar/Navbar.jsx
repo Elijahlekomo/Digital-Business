@@ -20,17 +20,14 @@ const Navbar = () => {
     }
    });
 
-   
-  
-
   return (
-    <div className={`n-wrapper ${navStyle}`}>
+    <div className= {`n-wrapper ${navStyle}`}>  
       {/* desktop version*/}
       <div className="container">
         <div className="n-container">
           {/*left side*/}
           <div className="n-logo">
-            <span>Digital Business</span>
+            <span>GO Digital</span>
           </div>
 
           {/*right side*/}
@@ -57,7 +54,7 @@ const Navbar = () => {
       {/*Mobile/tab version*/}
       <div className="nm-container">
         {/* logo */}
-        <span>DIGITAL BUSINESS</span>
+        <span>GO DIGITAL</span>
 
         {/* menu icon */}
         {!mobileMenuOpened ? (

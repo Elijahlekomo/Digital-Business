@@ -1,3 +1,4 @@
+
 .h-wrapper{
     background-color: var(--primary-color);
     height: 120vh; /*adjust settings */
@@ -83,11 +84,11 @@
 }
 .h-title > :nth-child(3)
 {
-    color: white;
+    color: #323232;
 }
 
 .h-des{
-    color: white;
+    color: #323232;
     font-size: 1.4rem;
     line-height: 2rem;
 }

@@ -4,11 +4,11 @@ to deliver seamless experience for users whether they're on a desktop, tablet, o
 
 🌐 [Live View](https://go-digital-business.vercel.app)   
 Built project with:   
- - React
- - Next JS
- - JavaScript
  - HTML
  - CSS
+ - React
+ - Next JS 
+ - JavaScript
 ## Screenshot of the project     
 🏠 __Home Page__    
 

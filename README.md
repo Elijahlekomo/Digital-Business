@@ -6,9 +6,9 @@ to deliver seamless experience for users whether they're on a desktop, tablet, o
 Built project with:   
  - HTML
  - CSS
+ - JavaScript
  - React
  - Next JS 
- - JavaScript
 ## Screenshot of the project     
 🏠 __Home Page__    
 

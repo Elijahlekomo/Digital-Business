@@ -8,7 +8,8 @@ Built project with:
  - CSS
  - JavaScript
  - React
- - Next JS 
+ - Next JS
+ - Framer Motion
 ## Screenshot of the project     
 🏠 __Home Page__    
 

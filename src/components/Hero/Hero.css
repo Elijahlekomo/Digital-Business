@@ -84,11 +84,13 @@
 }
 .h-title > :nth-child(3)
 {
-    color: #323232;
+    /* color: #323232; */
+    color: white;
 }
 
 .h-des{
-    color: #323232;
+    /* color: #323232; */
+    color: white;
     font-size: 1.4rem;
     line-height: 2rem;
 }
